@@ -1,4 +1,4 @@
-# Breast Cancer Prediction with SVM
+# Breast Cancer Prediction with Neural Network model
 
 This project uses a Neural network model to predict whether a breast tumor is **malignant** or **benign** based on measured characteristics from cancer images.
 
